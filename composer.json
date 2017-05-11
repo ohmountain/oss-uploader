@@ -6,6 +6,8 @@
             "email": "1005110700@qq.com"
         }
     ],
+    "type": "Library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Nineteen\\Uploader\\": "src/"
