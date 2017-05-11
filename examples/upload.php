@@ -2,7 +2,7 @@
 
 require_once(__DIR__.'/../vendor/autoload.php');
 
-use Plume\Uploader\OssUploader;
+use Nineteen\Uploader\OssUploader;
 
 $server  = 'http://storage.f5fz.cn:12080';      // 授权系统域名
 $project = 'nhds';                                  // 项目

@@ -1,5 +1,5 @@
 {
-    "name": "plume/oss-uploader",
+    "name": "nineteen/oss-uploader",
     "authors": [
         {
             "name": "renshan",
@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Plume\\Uploader\\": "src/"
+            "Nineteen\\Uploader\\": "src/"
         }
     },
     "require": {

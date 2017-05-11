@@ -11,7 +11,7 @@
 
 /******************/
 
-namespace Plume\Uploader;
+namespace Nineteen\Uploader;
 
 use OSS\OssClient;
 
