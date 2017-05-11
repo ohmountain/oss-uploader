@@ -1,0 +1,17 @@
+{
+    "name": "plume/oss-uploader",
+    "authors": [
+        {
+            "name": "renshan",
+            "email": "1005110700@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Plume\\Uploader\\": "src/"
+        }
+    },
+    "require": {
+        "aliyuncs/oss-sdk-php": "^2.2"
+    }
+}
