@@ -4,7 +4,7 @@
 
 ## 安装 ##
 ```shell
-composer require plume/oss-uploader
+composer require nineteen/oss-uploader
 ```
 
 ## 说明 ##
